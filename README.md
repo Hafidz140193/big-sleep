@@ -1,4 +1,4 @@
-<img src="./samples/artificial_intelligence.png" width="250px"></img>
+Selamat Hari Jadi Kabupaten Boyolali ke-177 Dirgahayu Boyolali<img src="./samples/artificial_intelligence.png" width="250px"></img>
 
 *artificial intelligence*
 
